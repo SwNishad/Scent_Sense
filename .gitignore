@@ -1,0 +1,6 @@
+# Local API keys
+scripts/keys.js
+
+# macOS junk
+.DS_Store
+**/.DS_Store
