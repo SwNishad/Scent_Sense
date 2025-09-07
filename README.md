@@ -10,7 +10,7 @@
 If you want to clone or download the project:
 
 1. Get your own API keys from:
-   - [Groq](https://groq.com/)  
+   - [Groq](https://console.groq.com/keys)  
    - [Pexels](https://www.pexels.com/api/)
 
 2. Open **`scripts/keys.example.js`** and paste your keys like this:
@@ -32,3 +32,14 @@ If you want to clone or download the project:
 - 🛒 Amazon links for shopping  
 - 💾 Save to Favorites using localStorage  
 - 💅 Aesthetic, responsive design  
+
+
+---
+
+## 👩‍💻 Developed By
+
+**Mohammed Showharwade Nishad**  
+Department of Computer Science & Engineering  
+Independent University, Bangladesh  
+
+📌 GitHub: [SwNishad](https://github.com/SwNishad)  
